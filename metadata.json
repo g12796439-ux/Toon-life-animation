@@ -1,0 +1,7 @@
+{
+  "name": "Toon Life",
+  "description": "An animation application to create stories with Indian characters, diverse backgrounds, and voiceovers. Generate scripts, record audio with voice effects, and export your creations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
